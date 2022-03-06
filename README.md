@@ -1,9 +1,10 @@
 # Flappy Bird
 
 ## Sobre o projeto.
-Esse é um projeto de um jogo muito famoso. Um clone de Flappy Bird. 
-<br><br>
-Data de conclusão: 01/02/2022<br><br>
+Esse é um projeto de um jogo muito famoso. Um clone de Flappy Bird.
+
+Data de conclusão: 01/02/2022
+
 ## Ferramentas e tecnologias usadas nesse projeto.
  
 ```js
